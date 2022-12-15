@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shabinaliyaudeen
-- 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning git
-- 📫 shabinafarveen@gmail.com
+- 👋 
+- Hi, I’m @shabinaliyaudeen
+- I’m a Software Engineering Undergraduate in SLIIT
 
 <!---
 shabinaliyaudeen/shabinaliyaudeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
