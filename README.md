@@ -1,5 +1,5 @@
 - 👋 
-- Hi, I’m @shabinaliyaudeen
+<b>- Hi, I’m @shabinaliyaudeen</b>
 - I’m a Software Engineering Undergraduate in SLIIT
 
 <!---
