@@ -1,6 +1,5 @@
 - 👋 
-<b>- Hi, I’m @shabinaliyaudeen</b>
-- I’m a Software Engineering Undergraduate in SLIIT
+<b>- Hola! Shabina Here.</b>
 
 <!---
 shabinaliyaudeen/shabinaliyaudeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
